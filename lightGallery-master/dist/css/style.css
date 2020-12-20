@@ -21,6 +21,7 @@ body {
 }
 
 .demo-gallery>ul {
+  display:grid;
   margin-bottom: 0;
 }
 
